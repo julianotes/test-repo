@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["jsText","document","querySelector","textContent"],"mappings":";AAAA,IAAMA,EAASC,SAASC,cAAc,WAAWC,YAAc","file":"src.0c2702a5.js","sourceRoot":"..\\src","sourcesContent":["const jsText = document.querySelector('.for-js').textContent = \"Это javaScript\";\r\n\r\n\r\n\r\n"]}
