@@ -1,0 +1,1 @@
+{"version":3,"sources":["new.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CACA,GACE,aACF","file":"new.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  background-color: rgb(28, 28, 71);\r\n}\r\nh1 {\r\n  color: lightgreen;\r\n}"]}
